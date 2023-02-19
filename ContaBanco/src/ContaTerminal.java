@@ -10,7 +10,7 @@ public class ContaTerminal {
         String agencia = "";
         String nomeCliente = "";
         double saldo;
-        
+
         System.out.println("Digite o número da conta:");
         numeroConta = scanner.nextInt();
 
